@@ -6,7 +6,7 @@ namespace CICDTestProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!need to change");
         }
     }
 }
